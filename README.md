@@ -4,7 +4,7 @@
 
 ## 1. 协议文档
 
-[signal.md](https://github.com/pili-engineering/QNRTC-Signal/blob/master/docs/signal.md)
+[signal.md](docs/signal.md)
 
 ## 2. 相关链接
 

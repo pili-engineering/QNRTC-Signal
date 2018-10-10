@@ -464,3 +464,14 @@ track格式
 
 示例
 mute-tracks={"tracks":[{"trackid":"yPNt7tpJD2Zv6dyn","muted":true},{"trackid":"yfPNe3ZpvUMKwa1G","muted":true}]}
+```
+
+
+## 流程解释
+
+![image](flow.png) 
+
+​
+
+
+
